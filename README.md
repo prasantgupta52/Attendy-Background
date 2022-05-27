@@ -30,4 +30,3 @@ This is the Background Directory Of Attendy
 
 ### 10) Now you can use Attendy Seamlessly
 
-
